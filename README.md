@@ -1,1 +1,1 @@
-"# chinese_content_aggregator" 
+# chinese_content_aggregator
